@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=a8af9d&text=JDamnuji_GitHub&animation=fadeIn&fontColor=F9EBC8)
 
 
-<center><img src="./img/duck1.jpg"  width="200" height="200"/></center>
+![ducks](./img/ducks.jpg)
 
 #
 
@@ -33,5 +33,6 @@
 
 
 #
-###📭 My SNS 
+
+### My SNS 📭
 > <a href="https://coffeebaralog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="matilto:mira509417@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://coffeebaralog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
