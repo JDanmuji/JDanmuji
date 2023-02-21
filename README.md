@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=a8af9d&text=JDamnuji_GitHub&animation=fadeIn&fontColor=e4d2c4)
 ### Hi there 👋
 
 <!--
