@@ -35,4 +35,8 @@
 #
 
 ### My SNS 📭
-> <a href="https://coffeebaralog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="matilto:mira509417@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://coffeebaralog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
+> <a href="https://www.instagram.com/_m.jd_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="matilto:mira509417@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://coffeebaralog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
+
+# 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDanmuji&show_icons=true&theme=gruvbox_light)
