@@ -40,13 +40,13 @@
 # 
 
 <p align="center">
-  <table>
+  <table style="overflow-y: hidden">
     <tr>
       <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JDanmuji&count_private=true&show_icons=true&theme=gruvbox_light&hide_border=true" align="left" style="width: 99%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JDanmuji&count_private=true&show_icons=true&theme=gruvbox_light&hide_border=true" align="left" style="width: 100%" />
       </td>
       <td align="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDanmuji&hide=jupyter%20notebook&&layout=compact&theme=gruvbox_light&hide_border=true" align="left" style="width: 99%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDanmuji&hide=jupyter%20notebook&&layout=compact&theme=gruvbox_light&hide_border=true" align="left" style="width: 100%" />
       </td>
     </tr>
   </table>
