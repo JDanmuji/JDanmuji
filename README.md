@@ -40,7 +40,7 @@
 # 
 
 <p align="center">
-  <table style="overflow-y: hidden">
+  <table style="overflow: hidden;">
     <tr>
       <td align="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=JDanmuji&count_private=true&show_icons=true&theme=gruvbox_light&hide_border=true" align="left" style="width: 100%" />
