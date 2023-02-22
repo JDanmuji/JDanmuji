@@ -12,7 +12,7 @@
 ### Hello I am 🌼
 > - I'm South Korean.
 > - I'm a Java-Full-Stack Junior Developer.
-> - I'm majoring in Computer Sciencee in university.
+> - I'm majoring in Computer Sciencee at university.
 #
 
 ### Tech Stack 📚
