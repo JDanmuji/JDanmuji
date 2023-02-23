@@ -40,12 +40,12 @@
 # 
 
 <p align="center" style="overflow: hidden;"">
-  <table style="overflow: hidden;">
-    <tr style="overflow: hidden;">
-      <td align="top" width="50%" style="overflow: hidden;">
+  <table>
+    <tr>
+      <td align="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=JDanmuji&count_private=true&show_icons=true&theme=gruvbox_light&hide_border=true" align="left" style="max-width: 100%" />
       </td>
-      <td align="top" width="50%" style="overflow: hidden;">
+      <td align="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDanmuji&hide=jupyter%20notebook&&layout=compact&theme=gruvbox_light&hide_border=true" align="left" style="max-width: 100%" />
       </td>
     </tr>
