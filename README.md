@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=a8af9d&text=JDamnuji_GitHub&animation=fadeIn&fontColor=F9EBC8)
 
-
 ![ducks](./img/ducks.jpg)
 
 #
@@ -31,18 +30,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 
 
-
 #
-
 ### My SNS 📭
 > <a href="https://www.instagram.com/_m.jd_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:mira509417@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://coffeebaralog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
 
 
-
-
 # 
-
-
 
 <p align="center" style="overflow: hidden;"">
   <table>
