@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=a8af9d&text=JDamnuji_GitHub&animation=fadeIn&fontColor=F9EBC8)
-
 ![ducks](./img/ducks.jpg)
 
 #
