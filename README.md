@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=FFD700&height=100&section=header)
 
 
-
+<div align="center">
 ## 🐻 **_Hello, Welcome to my GitHub_** 🐻
+<div>
+  
 <p align="center">
   <img src="https://tistory2.daumcdn.net/tistory/5795815/skinSetting/cd49a866257f4bc68b1e1c1ed75a871d">
 </p>
